@@ -1,4 +1,4 @@
-DragonClick
+MailersToGO
 ===========
 
-initial repository web apps
+initial repository for email forms and routines
